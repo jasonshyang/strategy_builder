@@ -1,0 +1,8 @@
+[package]
+name = "strategy_builder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = { version = "0.4" }
+tokio = { version = "1.41", features = ["full"] }
